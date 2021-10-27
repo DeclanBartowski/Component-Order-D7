@@ -1,0 +1,22 @@
+input[type=number] {
+    background: #f7f7f7;
+    border: 1px solid #eee;
+    border-radius: 2px;
+    box-shadow: none;
+    color: #383838;
+    height: auto;
+    font-size: 13px;
+    padding: 8px 13px 7px;
+    width: 100%;
+    outline: 0;
+}
+
+.error {
+    color: red;
+    margin-top: 10px;
+    display: none;
+}
+
+#redirectLink {
+    display: none;
+}
